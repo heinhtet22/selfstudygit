@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # ignore ALL .log files
 *.jpg
 .css
+=======
+*.jpg
+>>>>>>> 348576bf9651c76a635ec1654cad3e472949dbe0
